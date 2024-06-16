@@ -1,6 +1,6 @@
 *** Tech challenge from Endpoint accepted ***
 
-![alt text](https://github.com/nyevhen/endpoint-cypress-challenge/blob/main/Screenshot%202024-06-16%20at%203.11.21%E2%80%AFPM.png)
+![alt text](https://github.com/nyevhen/endpoint-cypress-challenge/blob/main/screenshots/Screenshot%202024-06-16%20at%203.11.21%E2%80%AFPM.png)
 
 ## Requirements
 To code and run tests in this framework locally you'll need:
@@ -23,6 +23,8 @@ n case of failure, screenshots can be seen here:
 
 ```cypress/screenshots```
 
+![alt text](https://github.com/nyevhen/endpoint-cypress-challenge/blob/main/screenshots/err-screenshot.png)
+
 By default, it will be executed in headless mode.
 If you like to debug test you can execute:
 
@@ -30,13 +32,13 @@ If you like to debug test you can execute:
 
 Start e2e testing in desired browser.
 
-![alt text](https://github.com/nyevhen/endpoint-cypress-challenge/blob/main/e2e.png)
-![alt text](https://github.com/nyevhen/endpoint-cypress-challenge/blob/main/start.png)
+![alt text](https://github.com/nyevhen/endpoint-cypress-challenge/blob/main/screenshots/e2e.png)
+![alt text](https://github.com/nyevhen/endpoint-cypress-challenge/blob/main/screenshots/start.png)
 
 Select feature you like to run and debug
 
-![alt text](https://github.com/nyevhen/endpoint-cypress-challenge/blob/main/feat.png)
+![alt text](https://github.com/nyevhen/endpoint-cypress-challenge/blob/main/screenshots/feat.png)
 
 Now you can execute your test and see your test execution in spec panel
 
-![alt text](https://github.com/nyevhen/endpoint-cypress-challenge/blob/main/spec.png)
+![alt text](https://github.com/nyevhen/endpoint-cypress-challenge/blob/main/screenshots/spec.png)
