@@ -1,6 +1,6 @@
 *** Tech challenge from Endpoint accepted ***
-![alt text](https://github.com/nyevhen/endpoint-cypress-challenge/blob/main/Screenshot%202024-06-16%20at%203.11.21%E2%80%AFPM.png)
 
+![alt text](https://github.com/nyevhen/endpoint-cypress-challenge/blob/main/Screenshot%202024-06-16%20at%203.11.21%E2%80%AFPM.png)
 
 ## Requirements
 To code and run tests in this framework locally you'll need:
@@ -16,6 +16,11 @@ To download latest and greatest source of this framework run:
 To run test execute next command in the root of the project:
 
 ```npx cypress run```
+
+You can see test report in console on test execution complete
+In case of failure, screenshots can be seen here:
+
+```cypress/screenshots```
 
 By default, it will be executed in headless mode.
 If you like to debug test you can execute:
@@ -34,6 +39,3 @@ Select feature you like to run and debug
 Now you can execute your test and see your test execution in spec panel
 
 ![alt text](https://github.com/nyevhen/endpoint-cypress-challenge/blob/main/spec.png)
-
-Basic html report will be saved to:
-${project.build.directory}/cucumber-reports/
