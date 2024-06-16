@@ -6,6 +6,7 @@
 To code and run tests in this framework locally you'll need:
 - npm
 - typescript
+- a cup of coffee (preferably java)
 
 ## Installation
 To download latest and greatest source of this framework run:
@@ -16,7 +17,7 @@ Execute in the root of project:
 
 ```npm install```
 
-Anf then:
+And then:
 
 ```npm install typescript -g```
 
