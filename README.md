@@ -5,11 +5,20 @@
 ## Requirements
 To code and run tests in this framework locally you'll need:
 - npm
+- typescript
 
 ## Installation
 To download latest and greatest source of this framework run:
 
 ```git clone https://github.com/nyevhen/endpoint-cypress-challenge.git```
+
+Execute in the root of project:
+
+```npm install```
+
+Anf then:
+
+```npm install typescript -g```
 
 
 ## Test execution
