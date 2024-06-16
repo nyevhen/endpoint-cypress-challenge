@@ -1,5 +1,5 @@
 *** Tech challenge from Endpoint accepted ***
-![alt text]()
+![alt text](https://github.com/nyevhen/endpoint-cypress-challenge/blob/main/Screenshot%202024-06-16%20at%203.11.21%E2%80%AFPM.png)
 
 
 ## Requirements
@@ -24,7 +24,16 @@ If you like to debug test you can execute:
 
 Start e2e testing in desired browser.
 
+![alt text](https://github.com/nyevhen/endpoint-cypress-challenge/blob/main/e2e.png)
+![alt text](https://github.com/nyevhen/endpoint-cypress-challenge/blob/main/start.png)
 
+Select feature you like to run and debug
+
+![alt text](https://github.com/nyevhen/endpoint-cypress-challenge/blob/main/feat.png)
+
+Now you can execute your test and see your test execution in spec panel
+
+![alt text](https://github.com/nyevhen/endpoint-cypress-challenge/blob/main/spec.png)
 
 Basic html report will be saved to:
 ${project.build.directory}/cucumber-reports/
