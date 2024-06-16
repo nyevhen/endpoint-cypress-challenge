@@ -17,7 +17,7 @@ To run test execute next command in the root of the project:
 
 ```npx cypress run```
 
-You can see test report in console on test execution complete
+You can see test report in console on test execution complete.
 In case of failure, screenshots can be seen here:
 
 ```cypress/screenshots```
