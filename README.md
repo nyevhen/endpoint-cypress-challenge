@@ -1,4 +1,4 @@
-*** Tech challenge from Endpoint accepted ***
+           *** Tech challenge from Endpoint ***
 
 ![alt text](https://github.com/nyevhen/endpoint-cypress-challenge/blob/main/screenshots/Screenshot%202024-06-16%20at%203.11.21%E2%80%AFPM.png)
 
