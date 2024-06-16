@@ -19,7 +19,7 @@ To run test execute next command in the root of the project:
 
 You can see test report in console on test execution complete.
 
-n case of failure, screenshots can be seen here:
+In case of failure, screenshots can be seen here:
 
 ```cypress/screenshots```
 
