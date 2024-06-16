@@ -18,3 +18,18 @@ import './commands'
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
+
+before(() => {
+  console.log("Before steps");
+  cy.visit("https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page");
+  cy.wait(1000);
+});
+
+after(() => {
+  console.log("After steps");
+  cy.visit("https://en.wikipedia.org/wiki/Special:EditWatchlist");
+  cy.wait(1000);
+  cy.get("#ooui-php-2").click();
+  cy.get("#ooui-php-14 > button > span.oo-ui-labelElement-label").click();
+  cy.wait(1000);
+})
